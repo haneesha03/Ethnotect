@@ -1,5 +1,3 @@
-package task4;
-
 public class JaggedArrays {
     public static void main(String args[]){
         int[][] studmarks=new int[5][];

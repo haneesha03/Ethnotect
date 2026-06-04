@@ -99,5 +99,6 @@ class Restaurant {
         if(order!=null){
             order.bill();
         }
+        s.close();
     }
 }
